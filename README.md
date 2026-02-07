@@ -15,7 +15,8 @@
 <img width="554" height="55" alt="image" src="https://github.com/user-attachments/assets/ff443c01-d355-479c-9ffc-7696d142c975" />
 
 ### Вывод kubectl get deploy
-<img width="471" height="54" alt="image" src="https://github.com/user-attachments/assets/6e4b1e83-882d-4268-ae51-e61b83fdc837" />
+<img width="470" height="55" alt="image" src="https://github.com/user-attachments/assets/e6b812ce-cbd3-4099-9be8-175407c8f017" />
+
 
 ### Вывод kubectl get pods
 <img width="584" height="73" alt="image" src="https://github.com/user-attachments/assets/58c1a4cf-00dc-404d-85e7-6aa54d6e809c" />
