@@ -8,7 +8,8 @@
 - Создать отдельный Pod с приложением multitool и убедиться с помощью curl, что из пода есть доступ до приложений из п.1.
 
 ### Создание configmap для nginx в контейнере multitool
-<img width="771" height="56" alt="image" src="https://github.com/user-attachments/assets/184b739f-eb3c-4c77-8703-e87fa37315ed" />
+<img width="912" height="40" alt="image" src="https://github.com/user-attachments/assets/0d7d851e-4bac-426e-ac82-0143eb8b04f9" />
+
 
 ### Вывод kubectl apply -f deployment.yaml
 <img width="554" height="55" alt="image" src="https://github.com/user-attachments/assets/ff443c01-d355-479c-9ffc-7696d142c975" />
