@@ -28,6 +28,12 @@
 ### Вывод kubectl get pods с новым POD
 <img width="523" height="73" alt="image" src="https://github.com/user-attachments/assets/ee0ae7c4-f47b-4673-8226-408d227ef811" />
 
+### Создание сервиса web-service
+<img width="589" height="139" alt="image" src="https://github.com/user-attachments/assets/2b05a690-8399-46a5-ba93-f25e960faaa0" />
+
+
+
+
 
 
 
