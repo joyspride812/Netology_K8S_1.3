@@ -7,9 +7,15 @@
 - Создать Service, который обеспечит доступ до реплик приложений из п.1.
 - Создать отдельный Pod с приложением multitool и убедиться с помощью curl, что из пода есть доступ до приложений из п.1.
 
+### Создание configmap для nginx в контейнере multitool
+<img width="771" height="56" alt="image" src="https://github.com/user-attachments/assets/184b739f-eb3c-4c77-8703-e87fa37315ed" />
+
 ### Вывод kubectl apply -f deployment.yaml
 <img width="554" height="55" alt="image" src="https://github.com/user-attachments/assets/ff443c01-d355-479c-9ffc-7696d142c975" />
 
 ### Вывод kubectl get deploy
 <img width="471" height="54" alt="image" src="https://github.com/user-attachments/assets/6e4b1e83-882d-4268-ae51-e61b83fdc837" />
+
+
+
 
