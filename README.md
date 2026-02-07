@@ -34,6 +34,10 @@
 ### Создание отдельного POD multitool-pod
 <img width="609" height="121" alt="image" src="https://github.com/user-attachments/assets/04d37be3-aa03-43bb-9601-af6ccc7f600a" />
 
+### Проверка, что из пода mutitool-pod есть доступ до приложений (nginx) из сервиса web-service
+<img width="834" height="401" alt="image" src="https://github.com/user-attachments/assets/5bcdcff8-5c64-497c-b143-25e5ec3f3ce1" />
+
+
 
 
 
