@@ -31,6 +31,12 @@
 ### Создание сервиса web-service
 <img width="589" height="139" alt="image" src="https://github.com/user-attachments/assets/2b05a690-8399-46a5-ba93-f25e960faaa0" />
 
+### Создание отдельного POD multitool-pod
+<img width="609" height="121" alt="image" src="https://github.com/user-attachments/assets/04d37be3-aa03-43bb-9601-af6ccc7f600a" />
+
+
+
+
 
 
 
