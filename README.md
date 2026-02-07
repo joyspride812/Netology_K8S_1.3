@@ -23,6 +23,7 @@
 
 ### Увеличение количество реплик до двух
 <img width="727" height="36" alt="image" src="https://github.com/user-attachments/assets/8437ffb8-6bdc-476a-b4e9-424bb39f8f00" />
+
 ### Вывод kubectl get pods с новым POD
 <img width="670" height="91" alt="image" src="https://github.com/user-attachments/assets/4cc2a2e9-d25e-48f8-b95e-7ea8c46bf494" />
 
