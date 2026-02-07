@@ -21,6 +21,10 @@
 ### Вывод kubectl get pods
 <img width="584" height="73" alt="image" src="https://github.com/user-attachments/assets/58c1a4cf-00dc-404d-85e7-6aa54d6e809c" />
 
+### Увеличение количество реплик до двух
+<img width="727" height="36" alt="image" src="https://github.com/user-attachments/assets/8437ffb8-6bdc-476a-b4e9-424bb39f8f00" />
+
+
 
 
 
