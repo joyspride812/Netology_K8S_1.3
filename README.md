@@ -43,6 +43,12 @@
 - Создать и запустить Service. Убедиться, что Init запустился.
 - Продемонстрировать состояние пода до и после запуска сервиса.
 
+### Создание deployment c init контейнером.
+<img width="585" height="145" alt="image" src="https://github.com/user-attachments/assets/d663c4a5-506e-43ed-8195-2f943e29d395" />
+
+###
+
+
 
 
 
