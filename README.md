@@ -56,6 +56,13 @@
 ### После создания сервиса контейнер nginx в POD nginx-init-76796d55b-rrdgq поднялся
 <img width="573" height="110" alt="image" src="https://github.com/user-attachments/assets/817157fa-d74d-48a9-a8c5-6e08a33da4ac" />
 
+Манифесты:
+- deployment.yaml
+- nginx-multitool.conf
+- service.yaml
+- deployment-2.yaml
+- service-2.yaml
+
 
 
 
