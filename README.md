@@ -44,10 +44,19 @@
 - Продемонстрировать состояние пода до и после запуска сервиса.
 
 ### Создание deployment c init контейнером.
-<img width="585" height="145" alt="image" src="https://github.com/user-attachments/assets/d663c4a5-506e-43ed-8195-2f943e29d395" />
+<img width="669" height="133" alt="image" src="https://github.com/user-attachments/assets/3ad275bb-9f8e-44fc-8242-20cab0dfad12" />
+
 
 ### Лог  init контейнера wait-for-service. Контейнер не может разрешить DNS имя в ip адрес сервиса "nginx-service" и завершить цикл.
 <img width="576" height="416" alt="image" src="https://github.com/user-attachments/assets/37c53670-28c7-49a0-9408-7d66cc6ed106" />
+
+### Создание Сервиса nginx-service.
+<img width="570" height="43" alt="image" src="https://github.com/user-attachments/assets/86ad1ade-1e30-490f-a5be-de97c8791f5e" />
+
+### После создания сервиса контейнер nginx в POD nginx-init-76796d55b-rrdgq поднялся
+<img width="573" height="110" alt="image" src="https://github.com/user-attachments/assets/817157fa-d74d-48a9-a8c5-6e08a33da4ac" />
+
+
 
 
 
