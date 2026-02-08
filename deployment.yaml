@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: web
+  template:
+    metadata:
+      labels:
+        app: web
+    spec:
+      volumes:
+        - name: multitool-nginx-conf
+          configMap:
+            name: multitool-nginx-conf
+      containers:
+        - name: nginx
+          image: nginx:1.25
+          ports:
+            - containerPort: 80
+
+        - name: multitool
+          image: wbitt/network-multitool
+          ports:
+            - containerPort: 8080
+          volumeMounts:
+            - name: multitool-nginx-conf
+              mountPath: /etc/nginx/nginx.conf
+              subPath: nginx.conf
+
+
