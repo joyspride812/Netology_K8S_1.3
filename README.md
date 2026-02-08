@@ -57,11 +57,11 @@
 <img width="573" height="110" alt="image" src="https://github.com/user-attachments/assets/817157fa-d74d-48a9-a8c5-6e08a33da4ac" />
 
 Манифесты:
-- deployment.yaml
-- nginx-multitool.conf
-- service.yaml
-- deployment-2.yaml
-- service-2.yaml
+- [deployment.yaml](https://github.com/joyspride812/Netology_K8S_1.3/blob/main/deployment.yaml) 
+- [nginx-multitool.conf](https://github.com/joyspride812/Netology_K8S_1.3/blob/main/nginx-multitool.conf)
+- [service.yaml](https://github.com/joyspride812/Netology_K8S_1.3/blob/main/service.yaml)
+- [deployment-2.yaml](https://github.com/joyspride812/Netology_K8S_1.3/blob/main/deployment-2.yaml)
+- [service-2.yaml](https://github.com/joyspride812/Netology_K8S_1.3/blob/main/service-2.yaml)
 
 
 
